@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello, world!" #afficher hello, world à l'écran
+print "hello, world!" #afficher hello, world à l'écran
